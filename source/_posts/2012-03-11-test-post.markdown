@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Test Post"
+date: 2012-03-11 18:46
+comments: true
+categories: 
+- test 
+- java
+---
+
+How would I actually write something?
+
+Or other
+
+# Headline
+
+## Subheadline?
+
+Fließtext mit Link, wem's gefällt [nettuts](http://net.tutsplus.com)
+
+``` python
+def doo():
+	a = 1
+	b = 2
+```
